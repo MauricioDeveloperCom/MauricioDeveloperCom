@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/mauricio_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauricio_dev" height="30" width="40" /></a>
 <a href="https://fb.com/mauriciodeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mauriciodeveloper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mauricio developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mauricio developer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCdBs2T2oThQwBZV40PO6ZRA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mauricio developer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
